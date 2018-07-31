@@ -82,6 +82,9 @@
 .secondry-header .list-secondry{
     padding:34px 30px;
 }
+.secondry-header .m-left{
+    margin-left:87px;
+}
 .secondry-header .text-container{
     text-align: center;
     padding: 60px 0px;
@@ -198,12 +201,12 @@
 .card-image .primary_div-card{
     display: flex;
     justify-content: space-between;
-    width: 76%;
+    width: 89%;
     position: relative;
     top: -84px;
     z-index: 0;
     background: #fff;
-    margin-left: -65px;
+    margin-left: -108px;
 }
 .card-image .primary_div-card>div{
     width:275px;
@@ -936,6 +939,9 @@ background-color:#FCFCFC;
         float:none;
         float:none;
         text-align: center;
+    }
+    .secondry-header .m-left{
+        margin-left:0px;
     }
     .secondry-header ul li a{
         font-size:16px;
